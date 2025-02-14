@@ -1,0 +1,2 @@
+. "/usr/bin/_/husky.sh"
+npm test
