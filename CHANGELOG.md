@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ligadata-yaraAbbas/semantic-release-test/compare/v1.0.0...v1.1.0) (2025-02-14)
+
+
+### Features
+
+* new file added ([222c921](https://github.com/ligadata-yaraAbbas/semantic-release-test/commit/222c921197df51c4057a5253eaed41273d1370c7))
+
 # 1.0.0 (2025-02-14)
 
 
