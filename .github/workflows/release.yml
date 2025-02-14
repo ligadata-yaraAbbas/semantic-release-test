@@ -28,5 +28,5 @@ jobs:
       - run: chmod -R +x ./node_modules/.bin  # Fix permissions
       - name: Run Semantic Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_TEST }}
         run: npx semantic-release
