@@ -1,4 +1,3 @@
 #updated 20250214
-select * from dim.dim_customer
 
-====================
+select id,name from dim.dim_customer
