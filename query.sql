@@ -1,0 +1,1 @@
+select * from dim.dim_trade_partner

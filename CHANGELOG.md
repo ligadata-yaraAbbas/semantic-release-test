@@ -1,3 +1,18 @@
+## [1.3.1](https://github.com/ligadata-yaraAbbas/semantic-release-test/compare/v1.3.0...v1.3.1) (2025-02-14)
+
+
+### Bug Fixes
+
+* fresh start ([d417ba0](https://github.com/ligadata-yaraAbbas/semantic-release-test/commit/d417ba0c4a149725c5f818265e0adc0ec5a1b710))
+* set up husky and commitlint with hooks ([064447b](https://github.com/ligadata-yaraAbbas/semantic-release-test/commit/064447bd5700dfb7a30cf5d93f9ea9e7ed90d5a9))
+
+# [1.3.0](https://github.com/ligadata-yaraAbbas/semantic-release-test/compare/v1.2.0...v1.3.0) (2025-02-14)
+
+
+### Features
+
+* Add new file ([44d00fb](https://github.com/ligadata-yaraAbbas/semantic-release-test/commit/44d00fb739ab2084a44cb23a2249339561244d5a))
+
 # [1.2.0](https://github.com/ligadata-yaraAbbas/semantic-release-test/compare/v1.1.0...v1.2.0) (2025-02-14)
 
 
