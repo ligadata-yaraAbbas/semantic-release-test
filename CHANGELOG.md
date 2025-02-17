@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/ligadata-yaraAbbas/semantic-release-test/compare/v1.3.1...v1.4.0) (2025-02-17)
+
+
+### Bug Fixes
+
+* test ([caa7296](https://github.com/ligadata-yaraAbbas/semantic-release-test/commit/caa729665e2b1651130aee02dd5bdd8fda5885aa))
+* update file ([57ffda5](https://github.com/ligadata-yaraAbbas/semantic-release-test/commit/57ffda509db236bb6c4d4f6998b8f50cffab4cb5))
+* update file ([d59ceac](https://github.com/ligadata-yaraAbbas/semantic-release-test/commit/d59ceacf2cc45dc5241f61441cd5ece0f270826e))
+
+
+### Features
+
+* add new file ([636d847](https://github.com/ligadata-yaraAbbas/semantic-release-test/commit/636d84724fb3ff96ad7fca9ecdc3aab41260744d))
+
 ## [1.3.1](https://github.com/ligadata-yaraAbbas/semantic-release-test/compare/v1.3.0...v1.3.1) (2025-02-14)
 
 
