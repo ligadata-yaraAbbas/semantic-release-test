@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/ligadata-yaraAbbas/semantic-release-test/compare/v1.4.0...v1.4.1) (2025-02-17)
+
+
+### Bug Fixes
+
+* file ([9feae08](https://github.com/ligadata-yaraAbbas/semantic-release-test/commit/9feae08b35cea8f602020777d7c1fc2136db6f72))
+
 # [1.4.0](https://github.com/ligadata-yaraAbbas/semantic-release-test/compare/v1.3.1...v1.4.0) (2025-02-17)
 
 
